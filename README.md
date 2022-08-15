@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @crockrocks
-- 👀 I’m interested in ... coding things for colleges and some information about things i can do to make engineering better
-- 🌱 I’m currently learning ... AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... programming and the developments in field of AI
+- 🌱 I’m currently learning ... web development and python
+- 💞️ I’m looking to collaborate on ... front end web developing
+- 📫 How to reach me ... email : harshpant3703@gmail.com
 
 <!---
 crockrocks/crockrocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
