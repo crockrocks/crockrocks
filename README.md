@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @crockrocks
-- 👀 I’m interested in ... programming and the developments in field of AI
-- 🌱 I’m currently learning ... web development and python
-- 💞️ I’m looking to collaborate on ... front end web developing
-- 📫 How to reach me ... email : harshpant3703@gmail.com
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Harsh.
+</p>
+<p>I have worked on domains of Artificial Intelligence and Machine Learning(AI/ML) as well as I have a bit of knowledge in the field of Web Development as a Front-End Developer . </p>
+<p align='center'>For enquiries, reach out <a href="https://www.linkedin.com/in/harsh-pant-a28378230/">LinkedIn</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
 
 <!---
 crockrocks/crockrocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
