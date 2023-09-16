@@ -25,7 +25,7 @@ I'm Harsh.
   </ol>
 </p>
 <p align='center'>For enquiries, reach out <a href="https://www.linkedin.com/in/harsh-pant-a28378230/">LinkedIn</a>.</p>
-<p align='center'>I also love writing articles about myself and my journey feel free to read my articles 🖤 <a href="https://medium.com/@harshpant3703">Medium</p>
+<p align='center'>I also love writing articles about myself and my journey feel free to read my articles 🖤 <a href="https://medium.com/@harshpant3703">Medium</a></p>
 <h1 align='center'><i>Keep Rocking :100: :love_you_gesture:!</i></h1>
 
 <!---
