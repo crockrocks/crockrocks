@@ -1,34 +1,40 @@
+<!-- Header -->
 <h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Harsh.
-</p>
-<p align='center'>I am a computer science engineering student and I have worked on domains of Artificial Intelligence and Machine Learning(AI/ML) . I also have a bit of knowledge in the field of Web Development as a Front-End Developer . </p>
-<p>Visit my best projects :
-  <ol>
-    <li>
-      <h4>Deep Learning Projects</h4> 
-      <p><a href="https://github.com/crockrocks/text-summarization">Text Summariser</a> </p>
-      <p><a href="https://github.com/crockrocks/Dog_Breed_Classifier">Dog Breed Classifier</a> </p>
-    </li>
-    <li><h4>Machine Learning Projects</h4>
-      <p><a href="https://github.com/crockrocks/Fastai">Customer Clustering Project </a>  as Assistant Lead (Hamoye) </p>
-      <p><a href="https://github.com/crockrocks/Random-Forest-Premier-Project">AirBNB Recommendation System </a>  as Assistant Lead (Hamoye)</p>
-      <p><a href="https://github.com/crockrocks/heart_disease_prediction">Heart Disease Prediction </a></p>
-      <p><a href="https://github.com/crockrocks/churn-prediction">Customer Churn Prediction </a></p>
-    </li>
-    <li><h4>Web-Development Projects</h4>
-      <p><a href="https://github.com/crockrocks/harsh-pant">Personal Portfolio Files </a> </p>
-      <p><a href="https://github.com/crockrocks/notes-app">Notes Website </a></p>
-      <p><a href="https://github.com/crockrocks/Kanban-website">Kanban Based Website</a></p>
-      <p><a href="https://github.com/crockrocks/Simon-game-challenge-starting-files">Simon Game</a></p>
-    </li>
-  </ol>
-</p>
-<p align='center'>For enquiries, reach out <a href="https://www.linkedin.com/in/harsh-pant-a28378230/">LinkedIn</a>.</p>
-<p align='center'>I also love writing articles about myself and my journey feel free to read my articles 🖤 <a href="https://medium.com/@harshpant3703">Medium</a></p>
-<h1 align='center'><i>Keep Rocking :100: :love_you_gesture:!</i></h1>
+<p align='center'>I'm Harsh, a computer science engineering student with a passion for Artificial Intelligence, Machine Learning (AI/ML), and Front-End Web Development.</p>
 
-<!---
-crockrocks/crockrocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Badges -->
+<p align='center'>
+    <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status: Active">
+    <img src="https://img.shields.io/badge/Field-AI%2FML%20%7C%20Web%20Dev-blue" alt="Field: AI/ML | Web Dev">
+</p>
+
+<!-- Introduction -->
+<p align='center'>Explore my best projects:</p>
+
+<!-- Project Sections -->
+<div align='center'>
+
+### Deep Learning Projects
+![Text Summarizer](https://github.com/crockrocks/text-summarization/blob/main/text-summary.png)
+![Dog Breed Classifier](https://github.com/crockrocks/Dog_Breed_Classifier/blob/main/images/dog-breed-classifier.jpg)
+
+### Machine Learning Projects
+![Customer Clustering Project](https://github.com/crockrocks/Fastai/blob/main/images/customer-clustering.jpg)
+![Airbnb Recommendation System](https://github.com/crockrocks/Random-Forest-Premier-Project/blob/main/images/airbnb-recommendation.jpg)
+![Heart Disease Prediction](https://github.com/crockrocks/heart_disease_prediction/blob/main/images/heart-disease-prediction.jpg)
+![Customer Churn Prediction](https://github.com/crockrocks/churn-prediction/blob/main/images/customer-churn-prediction.jpg)
+
+### Web Development Projects
+![Personal Portfolio Files](https://github.com/crockrocks/harsh-pant/blob/main/images/personal-portfolio.jpg)
+![Notes Website](https://github.com/crockrocks/notes-app/blob/main/images/notes-website.jpg)
+![Kanban Based Website](https://github.com/crockrocks/Kanban-website/blob/main/images/kanban-website.jpg)
+![Simon Game](https://github.com/crockrocks/Simon-game-challenge-starting-files/blob/main/images/simon-game.jpg)
+
+</div>
+
+<!-- Contact and Articles -->
+<p align='center'>For inquiries, reach out on <a href="https://www.linkedin.com/in/harsh-pant-a28378230/">LinkedIn</a>.</p>
+<p align='center'>I also love writing articles about myself and my journey. Feel free to read my articles 🖤 <a href="https://medium.com/@harshpant3703">Medium</a></p>
+
+<!-- Closing -->
+<h1 align='center'><i>Keep Rocking! :100: :love_you_gesture:</i></h1>
