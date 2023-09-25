@@ -15,8 +15,8 @@
 <div align='center'>
 
 ### Deep Learning Projects
-![Text Summarizer](https://github.com/crockrocks/text-summarization/blob/main/text-summary.png)
-![Dog Breed Classifier](https://github.com/crockrocks/Dog_Breed_Classifier/blob/main/images/dog-breed-classifier.jpg)
+* https://github.com/crockrocks/text-summarization
+* https://github.com/crockrocks/Dog_Breed_Classifier
 
 ### Machine Learning Projects
 ![Customer Clustering Project](https://github.com/crockrocks/Fastai/blob/main/images/customer-clustering.jpg)
