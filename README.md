@@ -10,14 +10,12 @@
 </p>
 
 <!-- Introduction -->
-<p align='center'>Explore my best projects:</p>
+<h2 align='center'>Explore my best projects:</h2>
 
-<!-- Project Sections -->
-<div align='center'>
 
 ### Deep Learning Projects
-[Text Summarization](https://github.com/crockrocks/text-summarization) |
-[Dog Breed Classifier](https://github.com/crockrocks/Dog_Breed_Classifier)
+<p> Text Summarization  -->  <a href="https://github.com/crockrocks/text-summarization">Repo Link</a></a></p>
+<p> Dog Breed Classifier  -->  <a href="https://github.com/crockrocks/Dog_Breed_Classifier">Repo Link</a></a></p>
 
 ### Machine Learning Projects
 [Customer Clustering Project](https://github.com/crockrocks/Fastai) |
@@ -30,8 +28,6 @@
 [Notes Website](https://github.com/crockrocks/notes-app) |
 [Kanban Based Website](https://github.com/crockrocks/Kanban-website) |
 [Simon Game](https://github.com/crockrocks/Simon-game-challenge-starting-files) 
-
-</div>
 
 <!-- Contact and Articles -->
 <p align='center'>For inquiries, reach out on <a href="https://www.linkedin.com/in/harsh-pant-a28378230/">LinkedIn</a>.</p>
