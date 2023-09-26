@@ -15,20 +15,20 @@
 <div align='center'>
 
 ### Deep Learning Projects
-* https://github.com/crockrocks/text-summarization
-* https://github.com/crockrocks/Dog_Breed_Classifier
+[Text Summarization](https://github.com/crockrocks/text-summarization) |
+[Dog Breed Classifier](https://github.com/crockrocks/Dog_Breed_Classifier)
 
 ### Machine Learning Projects
-![Customer Clustering Project](https://github.com/crockrocks/Fastai/blob/main/images/customer-clustering.jpg)
-![Airbnb Recommendation System](https://github.com/crockrocks/Random-Forest-Premier-Project/blob/main/images/airbnb-recommendation.jpg)
-![Heart Disease Prediction](https://github.com/crockrocks/heart_disease_prediction/blob/main/images/heart-disease-prediction.jpg)
-![Customer Churn Prediction](https://github.com/crockrocks/churn-prediction/blob/main/images/customer-churn-prediction.jpg)
+[Customer Clustering Project](https://github.com/crockrocks/Fastai) |
+[Airbnb Recommendation System](https://github.com/crockrocks/Random-Forest-Premier-Project) |
+[Heart Disease Prediction](https://github.com/crockrocks/heart_disease_prediction) |
+[Customer Churn Prediction](https://github.com/crockrocks/churn-prediction)
 
 ### Web Development Projects
-![Personal Portfolio Files](https://github.com/crockrocks/harsh-pant/blob/main/images/personal-portfolio.jpg)
-![Notes Website](https://github.com/crockrocks/notes-app/blob/main/images/notes-website.jpg)
-![Kanban Based Website](https://github.com/crockrocks/Kanban-website/blob/main/images/kanban-website.jpg)
-![Simon Game](https://github.com/crockrocks/Simon-game-challenge-starting-files/blob/main/images/simon-game.jpg)
+[Personal Portfolio Files](https://github.com/crockrocks/harsh-pant) |
+[Notes Website](https://github.com/crockrocks/notes-app) |
+[Kanban Based Website](https://github.com/crockrocks/Kanban-website) |
+[Simon Game](https://github.com/crockrocks/Simon-game-challenge-starting-files) 
 
 </div>
 
