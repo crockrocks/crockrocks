@@ -1,6 +1,7 @@
 <!-- Header -->
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>I'm Harsh, a computer science engineering student with a passion for Artificial Intelligence, Machine Learning (AI/ML), and Front-End Web Development.</p>
+<p align = 'center'> Visit my Portfolio --> <a href="https://harsh-pant.vercel.app/">Harsh Pant</a></p>
 
 <!-- Badges -->
 <p align='center'>
