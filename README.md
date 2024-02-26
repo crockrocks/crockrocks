@@ -12,7 +12,7 @@
   <a href="https://github.com/crockrocks">
     <img src="https://komarev.com/ghpvc/?username=crockrockss&color=orange" />
   </a><br/>
-  <a href="https://github.com/Cioscos">
+  <a href="https://github.com/crockrocks">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=crockrocks&show_icons=true&theme=synthwave" />
   </a>
 </p>
