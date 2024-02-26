@@ -8,6 +8,14 @@
     <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status: Active">
     <img src="https://img.shields.io/badge/Field-AI%2FML%20%7C%20Web%20Dev-blue" alt="Field: AI/ML | Web Dev">
 </p>
+<p align='center'>
+  <a href="https://github.com/crockrocks">
+    <img src="https://komarev.com/ghpvc/?username=crockrockss&color=orange" />
+  </a><br/>
+  <a href="https://github.com/Cioscos">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=crockrocks&show_icons=true&theme=synthwave" />
+  </a>
+</p>
 
 <!-- Introduction -->
 <h2 align='center'>Explore my best projects:</h2>
