@@ -1,4 +1,4 @@
-<h1 align='center'>👋 Hello, I'm Harsh!</h1>
+<h1 align='center'>👋 Hi, I'm Harsh!</h1>
 
 <p align='center'>
   <b>Artificial Intelligence Engineering Student | AI/ML Enthusiast | Front-End Web Developer</b>
