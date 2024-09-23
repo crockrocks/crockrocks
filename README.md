@@ -24,7 +24,7 @@
 
 ### Avatar Video Generation :
 [Video Retalker](https://github.com/crockrocks/better-video-retalking)
-- Researching on making very own avatar generation , currently found Video Retlaker one of the best in the domain , pushed a better version of video retlaker to enhance the overall quality of generation after carefully reviewing the code .
+- Researching on making very own avatar generation , currently found Video Retalker one of the best in the domain , pushed a better version of video retalker to enhance the overall quality of generation after carefully reviewing the code .
 
 ### BUD : 
 [BUD - Your AI Companion](https://github.com/crockrocks/BUD)
