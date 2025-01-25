@@ -42,7 +42,7 @@
 - [Airbnb Recommendation System](https://github.com/crockrocks/Random-Forest-Premier-Project)
 
 ### Web Development :
-- [Personal Portfolio](https://github.com/crockrocks/harsh-pant)
+- [Personal Portfolio](https://github.com/crockrocks/portfolio)
 - [Notes App](https://github.com/crockrocks/notes-app)
 - [Kanban Board](https://github.com/crockrocks/Kanban-website)
 
